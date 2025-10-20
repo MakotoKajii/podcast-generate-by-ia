@@ -1,7 +1,7 @@
 # Podcast-generate-by-ia
 *first steps tests*
 
-![foto](
+![foto](image.jpg)
 
 ### **Objetivo**
   Desenvolvimento do Podcast utilizando IAs como:
