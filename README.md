@@ -1,6 +1,8 @@
 # Podcast-generate-by-ia
 *first steps tests*
 
+![foto](
+
 ### **Objetivo**
   Desenvolvimento do Podcast utilizando IAs como:
   - [ChatGpt](https://chatgpt.com)
