@@ -1,8 +1,9 @@
 # Podcast-generate-by-ia
 *first steps tests*
 
-![foto](image.jpg)
-<img src="image.png" alt="Foto Exemplo" width="300px" style="border-radius : 10px;"
+<p align = "center">
+<img src="image.jpg" alt="Foto Exemplo" width="400" style="display : block; margin : auto; border-radius : 50%;">
+<p/>
 
 ### **Objetivo**
   Desenvolvimento do Podcast utilizando IAs como:
