@@ -26,5 +26,11 @@ Projeto visa utilizar IAs para o desenvolvimento do podcast, sendo o nome do pod
   - Capcut para edição
 
 ### **👨‍💻Desenvolvedor**
-  
-  
+
+  <p>
+    <img 
+      align=left 
+      margin=10 
+      width=80
+      src="https://avatars.githubusercontent.com/u/674189?v=4"
+    />
