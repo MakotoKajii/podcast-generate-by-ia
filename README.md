@@ -2,8 +2,8 @@
 *first steps tests*
 
 <p align = "center">
-<img src="image.jpg" alt="Foto Exemplo" width="400" style="display : block; margin : auto; border-radius : 50%;">
-<p/>
+<img src="image.jpg" alt="Foto Exemplo" width="400" style="display : block; margin : auto; border-radius: 50%;">
+</p>
 
 ### **Objetivo**
   Desenvolvimento do Podcast utilizando IAs como:
