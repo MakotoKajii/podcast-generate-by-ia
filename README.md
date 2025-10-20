@@ -2,6 +2,7 @@
 *first steps tests*
 
 ![foto](image.jpg)
+<img src="images/image.png" alt="Foto Exemplo" width="300px" style="border-radius : 10px;"
 
 ### **Objetivo**
   Desenvolvimento do Podcast utilizando IAs como:
