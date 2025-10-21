@@ -34,3 +34,5 @@ Projeto visa utilizar IAs para o desenvolvimento do podcast, sendo o nome do pod
       width=80
       src="https://avatars.githubusercontent.com/u/674189?v=4"
     />
+
+    <p>&nbsp&nbsp&nbspMakoto Kajii<br>
