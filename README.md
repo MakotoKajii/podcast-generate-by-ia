@@ -19,13 +19,17 @@ Projeto visa utilizar IAs para o desenvolvimento do podcast, sendo o nome do pod
   - [Midjourney](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwibu-b-pbGQAxX7u5UCHSMgLJEQFnoECA0QAQ&url=https%3A%2F%2Fwww.midjourney.com%2F&usg=AOvVaw3grMcZQ-XDIBOtKA3oOlK4&opi=89978449)
   - [ElevenLabs](https://start.elevenlabs.io/brand/v1?utm_source=google&utm_medium=cpc&utm_campaign=brazil_brandsearch_brand_english&utm_id=22882469642&utm_term=eleven%20labs&utm_content=brand_-_brand&gad_source=1&gad_campaignid=22882469642&gclid=CjwKCAjwmNLHBhA4EiwA3ts3mUDZ3iiigRmfU4yv-av3DSXImTRLbsrnXkLDykfKN3ItOCNvZItAHhoCz6QQAvD_BwE)
 
-### **💡Como foi feito?**
+## **📚Materiais**
+- [Link Podcast]
+- [Notion Template]
+
+## **💡Como foi feito?**
   - Nome e roteiro CHatGPT 
   - Audio gerado pelo ElevenLabs
   - MidJourney, Grok para geração de imagens
   - Capcut para edição
 
-### **👨‍💻Desenvolvedor**
+## **👨‍💻Desenvolvedor**
 
   <p>
     <img 
@@ -34,5 +38,5 @@ Projeto visa utilizar IAs para o desenvolvimento do podcast, sendo o nome do pod
       width=80
       src="https://avatars.githubusercontent.com/u/674189?v=4"
     />
-
     <p>&nbsp&nbsp&nbspMakoto Kajii<br>
+<a
