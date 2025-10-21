@@ -38,5 +38,7 @@ Projeto visa utilizar IAs para o desenvolvimento do podcast, sendo o nome do pod
       width=80
       src="https://avatars.githubusercontent.com/u/674189?v=4"
     />
-    <p>&nbsp&nbsp&nbspMakoto Kajii<br>
-<a
+    <p>&nbsp&nbsp&nbspMakoto Kajii<br>    
+<p align="left"> &nbsp&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-Hub?style=flat&logo=github">
+</p>
